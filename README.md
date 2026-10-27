@@ -62,14 +62,6 @@
 </tr>
 </table>
 
-<h2>Contribution trail</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=soigwa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159134044%3Fu%3D89a461c1845e65da4a4d25b808da631879958e58%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=soigwa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159134044%3Fu%3D89a461c1845e65da4a4d25b808da631879958e58%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Andy Ombasa contribution trail" />
-</picture>
-</p>
 
 <hr />
 
