@@ -43,7 +43,7 @@
 <td width="17%" align="center"><strong>CSS</strong><br /><sub>5%</sub></td>
 </tr>
 </table>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <h2>Repositories worth exploring</h2>
 
 <p align="center">
