@@ -24,27 +24,11 @@
 
 <h2>Open-source toolbox</h2>
 
-<p><code>soigwa@github ~ $ toolbox --list</code></p>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=soigwa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159134044%3Fu%3D89a461c1845e65da4a4d25b808da631879958e58%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=soigwa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159134044%3Fu%3D89a461c1845e65da4a4d25b808da631879958e58%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Andy Ombasa open-source technology toolbox" />
-</picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,linux,bash,python,mysql,cpp,js,html,css,git,github" alt="My Skills" />
+  </a>
 </p>
-
-<table width="100%">
-<tr>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>38%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>30%</sub></td>
-<td width="17%" align="center"><strong>HCL</strong><br /><sub>15%</sub></td>
-<td width="17%" align="center"><strong>C++</strong><br /><sub>5%</sub></td>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>5%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>5%</sub></td>
-</tr>
-</table>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-<h2>Repositories worth exploring</h2>
 
 <p align="center">
 <picture>
