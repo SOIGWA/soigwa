@@ -2,12 +2,6 @@
 
 <p><code>soigwa@github ~ $ ./maintainer.sh</code></p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=soigwa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159134044%3Fu%3D89a461c1845e65da4a4d25b808da631879958e58%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=soigwa&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159134044%3Fu%3D89a461c1845e65da4a4d25b808da631879958e58%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Andy Ombasa animated maintainer system scan" />
-</picture>
-</p>
 </div>
 
 <h2>Why I build in public</h2>
